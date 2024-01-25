@@ -8,6 +8,7 @@
 * [Discord](social-media/discord/README.md)
   * [DiscordLeaks](social-media/discord/discordleaks.md)
   * [Disboard](social-media/discord/disboard.md)
+  * [Test](social-media/discord/test.md)
 
 ## Images & Videos
 
