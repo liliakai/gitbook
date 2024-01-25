@@ -1,14 +1,12 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [Page](page.md)
+* [Page](page/README.md)
+  * [Discord](page/discord/README.md)
+    * [DiscordLeaks](page/discord/discordleaks.md)
+    * [Disboard](page/discord/disboard.md)
 
 ## Social Media
-
-* [Discord](social-media/discord/README.md)
-  * [DiscordLeaks](social-media/discord/discordleaks.md)
-  * [Disboard](social-media/discord/disboard.md)
-
 
 ## Images & Videos
 
