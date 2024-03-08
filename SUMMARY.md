@@ -6,8 +6,6 @@
     * [DiscordLeaks](page/discord/discordleaks.md)
     * [Disboard](page/discord/disboard.md)
 
-## Social Media
-
 ## Images & Videos
 
 * [Reverse Image Search](images-and-videos/reverse-image-search/README.md)

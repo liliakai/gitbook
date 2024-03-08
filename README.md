@@ -8,6 +8,6 @@ Categories
 
 * Images
 * Videos
-* Audio&#x20;
+* Audio
 
-<div id="foo"><p>Foo</p></div>
+Bar
